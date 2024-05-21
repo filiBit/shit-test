@@ -9,7 +9,6 @@
     "devDependencies": {
         "@semantic-release/changelog": "6.0.3",
         "@semantic-release/git": "10.0.1",
-        "add": "2.0.6",
         "semantic-release": "23.1.1"
     }
 }
