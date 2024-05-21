@@ -24,4 +24,8 @@ Some description
 
 ## Chapter 6
 
+Some description bla bla
+
+## Chapter 7
+
 Some description
