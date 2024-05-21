@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/filiBit/shit-test/compare/v1.3.0...v1.4.0) (2024-05-21)
+
+
+### Features
+
+* some ([476c57e](https://github.com/filiBit/shit-test/commit/476c57e0ee401602ece7d9d15ee0eb52c7f65dc8))
+
 # [1.3.0](https://github.com/filiBit/shit-test/compare/v1.2.0...v1.3.0) (2024-05-21)
 
 
