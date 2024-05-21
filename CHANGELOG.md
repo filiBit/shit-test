@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/filiBit/shit-test/compare/v1.2.0...v1.3.0) (2024-05-21)
+
+
+### Features
+
+* chapter 7 ([7ed79d9](https://github.com/filiBit/shit-test/commit/7ed79d9e80133e3ae26fe0c66b4527e10ad3120b))
+
 # [1.2.0](https://github.com/filiBit/shit-test/compare/v1.1.0...v1.2.0) (2024-05-21)
 
 
