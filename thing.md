@@ -25,3 +25,7 @@ Some description
 ## Chapter 6
 
 Some description
+
+## Chapter 7
+
+Some description
